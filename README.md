@@ -4,3 +4,4 @@
 3. Install docker on the EC2 instance
     > sudo apt update
     > sudo apt install docker.io
+    
